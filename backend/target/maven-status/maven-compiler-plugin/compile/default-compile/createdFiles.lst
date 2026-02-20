@@ -1,0 +1,15 @@
+com\gym\system\CheckInMapper.class
+com\gym\system\GymCourse.class
+com\gym\system\User.class
+com\gym\system\GymCourseMapper.class
+com\gym\system\GymSystemApplication.class
+com\gym\system\Evaluation.class
+com\gym\system\UserMapper.class
+com\gym\system\Equipment.class
+com\gym\system\ReservationMapper.class
+com\gym\system\VenueMapper.class
+com\gym\system\EvaluationMapper.class
+com\gym\system\Reservation.class
+com\gym\system\EquipmentMapper.class
+com\gym\system\CheckIn.class
+com\gym\system\Venue.class
