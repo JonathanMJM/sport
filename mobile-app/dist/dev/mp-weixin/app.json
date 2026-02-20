@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/login",
+    "pages/student/home",
+    "pages/teacher/mobile",
+    "pages/common/profile",
+    "pages/student/evaluate",
+    "pages/teacher/evaluate"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#007AFF",
+    "navigationBarTextStyle": "white"
+  },
+  "usingComponents": {}
+}

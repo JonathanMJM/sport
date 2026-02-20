@@ -1,0 +1,13 @@
+
+.content { padding: 20px;
+}
+.header { font-size: 20px; font-weight: bold; margin-bottom: 20px; text-align: center;
+}
+.picker { background: #fff; padding: 15px; border-radius: 8px; margin-bottom: 20px; text-align: center; border: 1px solid #ddd;
+}
+.form-item { margin-bottom: 20px; background: #fff; padding: 15px; border-radius: 8px;
+}
+.textarea { width: 100%; height: 100px; margin-top: 10px;
+}
+.btn { background: #007aff; color: white;
+}

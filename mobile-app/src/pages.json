@@ -1,0 +1,44 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/login",
+			"style": {
+				"navigationBarTitleText": "体育馆助手"
+			}
+		},
+		{
+			"path": "pages/student/home",
+			"style": {
+				"navigationBarTitleText": "学员中心"
+			}
+		},
+		{
+			"path": "pages/teacher/mobile",
+			"style": {
+				"navigationBarTitleText": "教师考勤"
+			}
+		},
+		{
+			"path": "pages/common/profile",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/student/evaluate",
+			"style": {
+				"navigationBarTitleText": "课程评价"
+			}
+		},
+		{
+			"path": "pages/teacher/evaluate",
+			"style": {
+				"navigationBarTitleText": "学员评价"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarBackgroundColor": "#007AFF",
+		"navigationBarTextStyle": "white"
+	}
+}
